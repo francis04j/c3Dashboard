@@ -9,8 +9,7 @@
 <p align="center">
     <a href="LICENSE" target="_blank"><img src="https://img.shields.io/github/license/fransachmadhw/react_admin_ui_v1" alt="GitHub license"></a>
     <a><img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version"></a>
-    <a><img src="https://img.shields.io/github/stars/fransachmadhw/react_admin_ui_v1" alt="GitHub stars"></a>
-    <a><img src="https://img.shields.io/github/languages/top/fransachmadhw/react_admin_ui_v1" alt="language"></a>
+    <a><img src="https://img.shields.io/github/languages/top/francis04j/c3Dashboards" alt="language"></a>
    
 </p>
 <br/>
@@ -85,6 +84,4 @@ Obviously you can always **reach out to me directly** via a formal approach such
 
 
 
-## 📘&nbsp; License
 
-React Admin Dashboard UI Prototype is released under the terms of the [BSD-3-Clause](LICENSE).
